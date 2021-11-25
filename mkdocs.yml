@@ -1,0 +1,10 @@
+site_name: AI Collection
+repo_url: https://github.com/r05323028/ai-collection
+repo_name: r05323028/ai-collection
+site_description: Collection of AI related resources
+site_author: Sean Chang
+copyright: Copyright © 2021 Sean Chang. All Rights Reserved.
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
