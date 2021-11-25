@@ -4,8 +4,16 @@
 
 Collection of AI related resources.
 
+## Machine Learning
+
 ## Tree-based Models
 
 -   XGBoost
+    -   [Official Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
+    -   [What makes “XGBoost” so Extreme?](https://medium.com/analytics-vidhya/what-makes-xgboost-so-extreme-e1544a4433bb)
 
 ## Natural Language Processing
+
+-   Transformer
+    -   [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+    -   [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
