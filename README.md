@@ -9,8 +9,12 @@ Collection of AI related resources.
 ## Tree-based Models
 
 -   XGBoost
+
     -   [Official Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
     -   [What makes “XGBoost” so Extreme?](https://medium.com/analytics-vidhya/what-makes-xgboost-so-extreme-e1544a4433bb)
+
+-   Visualization
+    -   [How to visualize decision trees](https://explained.ai/decision-tree-viz/)
 
 ## Natural Language Processing
 
