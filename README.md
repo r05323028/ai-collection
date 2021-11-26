@@ -9,6 +9,7 @@ Collection of AI related resources.
 -   Fundamentals
 
     -   [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+    -   [The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 
 -   Clustering
 
@@ -26,10 +27,20 @@ Collection of AI related resources.
 
 ## Tree-based Models
 
+-   Fundamentals
+
+    -   [Decision Trees: Which feature to split on?](https://medium.com/analytics-vidhya/decision-trees-which-feature-to-split-on-91083fc32279)
+
 -   XGBoost
 
     -   [Official Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
     -   [What makes “XGBoost” so Extreme?](https://medium.com/analytics-vidhya/what-makes-xgboost-so-extreme-e1544a4433bb)
+
+-   LightGBM
+
+    -   [Paper](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
+    -   [What makes LightGBM lightning fast?](https://towardsdatascience.com/what-makes-lightgbm-lightning-fast-a27cf0d9785e)
+    -   [You Are Missing Out on LightGBM. It Crushes XGBoost in Every Aspect](https://towardsdatascience.com/how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997)
 
 -   Visualization
 
@@ -45,3 +56,4 @@ Collection of AI related resources.
 
     -   [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
     -   [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+    -   [What Happens To BERT Embeddings During Fine-tuning? (ACL 2020)](https://aclanthology.org/2020.blackboxnlp-1.4/)
