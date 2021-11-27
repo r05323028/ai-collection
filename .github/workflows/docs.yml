@@ -21,9 +21,10 @@ jobs:
       - name: Install dependencies
         run: |
           poetry install
-      - name: Copy readme
+      - name: Copy readme & static
         run: |
           cp README.md ./docs/index.md
+          cp -r static docs/
       - name: Deploy docs
         run: |
           poetry run mkdocs gh-deploy --force

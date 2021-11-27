@@ -1,4 +1,4 @@
-# AI Collection
+<p align="center"><img width='50%' src="./static/assets/img/ai-collection.png"/></p>
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/r05323028/ai-collection/deploy-docs/main?label=docs)
 
@@ -20,6 +20,14 @@ Collection of AI related resources.
 -   Fundamentals
 
     -   [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+-   RNN
+
+    -   [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+
+-   CNN
+
+    -   [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 -   Miscellaneous
 
