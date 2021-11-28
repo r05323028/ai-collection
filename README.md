@@ -9,6 +9,7 @@ Collection of AI related resources.
 -   Fundamentals
 
     -   [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+    -   [Animations with receiver operating characteristic and precision-recal curves](https://github.com/dariyasydykova/open_projects/tree/master/ROC_animation)
     -   [The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 
 -   Clustering
